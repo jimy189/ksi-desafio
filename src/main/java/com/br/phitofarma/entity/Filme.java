@@ -28,7 +28,7 @@ public class Filme {
 
         Title = form.getTitle();
         Year = form.getYear();
-        Director = form.getTitle();
+        Director = form.getDirector();
     }
 
 
