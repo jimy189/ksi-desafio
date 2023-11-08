@@ -1,4 +1,4 @@
-package com.br.phitofarma.config;
+package com.br.phitofarma;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
